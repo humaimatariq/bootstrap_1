@@ -1,0 +1,54 @@
+.custom_nav{
+    background-color: rgb(173, 37, 37);
+}
+.btn2{
+    background-color: rgb(173, 37, 37);
+}
+.custom{
+    background-color: gray;
+}
+.confi{
+   rotate: 20deg;
+   margin-top: 10px;
+}
+
+form{
+ background-image: url(./images/form_bg.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.customred{
+    color:rgb(173, 37, 37) ;
+}
+@media (max-width: 768px) { 
+    .center-md {
+        text-align: center; 
+        margin-top: 20px;
+      }
+      .banner{
+        margin-top: 20px;
+      }
+ }
+ @media (max-width: 600px){
+.res{
+    height: 100px;
+}
+/* .cus{
+    margin-left: 40px;
+}
+.cus1{
+    margin-left: 40px;
+} */
+.custom_nav{
+  padding-right: 130px;
+}
+ }
+ @media (max-width: 1200px){
+    .res1{
+        /* width: 100%;
+        height: auto; */
+    }
+    .banner{
+        margin-top: 20px;
+      }
+ }
